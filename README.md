@@ -1,5 +1,5 @@
-# patatap-clone
+# Patatap Clone
 
-Press any key from A-Z to enjoy different sounds.
+A Clone of [Patatap](https://patatap.com) built with [Paperjs](http://paperjs.org/) and [Howlerjs](https://howlerjs.com/) 
 
-It's a clone of patatap website. It is built with howler.js and paper.js.
+
